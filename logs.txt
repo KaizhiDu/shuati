@@ -1,2 +1,1 @@
-laodu { element: '/', first: 6, second: -132, res: -1 }
-22
+2
