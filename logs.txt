@@ -1,1 +1,4 @@
-
+{ left: 0, right: 6, checkIdx: 3 }
+{ left: 0, right: 2, checkIdx: 1 }
+{ left: 0, right: 0, checkIdx: 0 }
+0
